@@ -22,17 +22,17 @@ int main(int argc, char** argv) {
     
     cout << "What is the wavelength?  ";
     cin >> L;
-    if (L>5)
+    if (L>5e0)
         cout << "Radio" << endl;
-    else if (L>5e-3f)
+    else if (L>5e-3)
         cout << "Microwave" << endl;
-    else if (L>5e-6f)
+    else if (L>5e-6)
         cout << "Infrared" <<endl;
-    else if (L>5e-7f)
+    else if (L>5e-7)
         cout <<"Visible" << endl;
-    else if (L>5e-9f )
+    else if (L>5e-9)
         cout << "Ultraviolet" << endl;
-    else if (L>5e-11f )
+    else if (L>5e-11)
         cout << "X-Ray" << endl;
     else 
         cout << "Gamma Ray" << endl;
