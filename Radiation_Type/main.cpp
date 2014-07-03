@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 
     //Input
     //Declare Variable
-    float L;
+    float L; //L = lambda
     
     cout << "What is the wavelength?  ";
     cin >> L;
