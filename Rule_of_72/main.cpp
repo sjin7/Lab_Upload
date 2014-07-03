@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 
     //Input
     //Declare Variables
-    int N; //number of years
+    unsigned short N; //number of years
     
     //Output
     //Declare Variables
