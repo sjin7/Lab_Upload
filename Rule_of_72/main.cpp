@@ -1,7 +1,6 @@
 /* 
- * File:   main.cpp
- * Author: rcc
- *
+ * File:   Rule_of_72
+ * Author: Shen Jin
  * Created on July 2, 2014, 1:25 PM
  */
 
