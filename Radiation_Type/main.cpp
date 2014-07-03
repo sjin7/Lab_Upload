@@ -1,7 +1,6 @@
 /* 
- * File:   main.cpp
- * Author: rcc
- *
+ * File:   Radiation
+ * Author: Shen Jin
  * Created on July 2, 2014, 12:54 PM
  */
 
@@ -15,9 +14,8 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    //Global Constants
-//    float W1=1.0+3f, W2=1.0-2f, W3=1.0-5f, W4=0.5e-6f, W5=1.0-8f;
-//    float W6=1.0-10f, W6=1.0-12f;
+    //Input
+    //Declare Variable
     float L;
     
     cout << "What is the wavelength?  ";
